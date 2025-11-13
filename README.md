@@ -80,11 +80,14 @@ The following visual analyses were performed using **Matplotlib** and **Seaborn*
 ```bash
 git clone <your-repository-url>
 cd delhi-metro-analysis
-
+```
 ### 2. Install dependencies
+```bash
 pip install -r requirements.txt
+```
 
 ### 3. Launch Jupyter Notebook
+```bash
 jupyter notebook
 
 Open the file:
